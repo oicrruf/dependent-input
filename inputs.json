@@ -1,0 +1,202 @@
+[
+  {
+    "question": 1,
+    "attributes": {
+      "id": "parent-1",
+      "required": false,
+      "className": "form-control",
+      "type": "password",
+      "question": "Pregunta 1"
+    }
+  },
+  {
+    "question": 2,
+    "attributes": {
+      "id": "parent-2",
+      "required": true,
+      "className": "form-control",
+      "type": "text",
+      "question": "Pregunta 2"
+    }
+  },
+  {
+    "question": 3,
+    "attributes": {
+      "id": "parent-3",
+      "required": false,
+      "className": "form-control child-2",
+      "type": "text",
+      "question": "Pregunta 3"
+    }
+  },
+  {
+    "question": 4,
+    "attributes": {
+      "id": "parent-4",
+      "required": false,
+      "className": "form-control child-2",
+      "type": "text",
+      "question": "Pregunta 4"
+    }
+  },
+  {
+    "question": 5,
+    "attributes": {
+      "id": "parent-5",
+      "required": false,
+      "className": "form-control child-4",
+      "type": "text",
+      "question": "Pregunta 5"
+    }
+  },
+  {
+    "question": 6,
+    "attributes": {
+      "id": "parent-6",
+      "required": true,
+      "className": "form-control",
+      "type": "text",
+      "question": "Pregunta 6"
+    }
+  },
+  {
+    "question": 7,
+    "attributes": {
+      "id": "parent-7",
+      "required": false,
+      "className": "form-control child-4",
+      "type": "text",
+      "question": "Pregunta 7"
+    }
+  },
+  {
+    "question": 8,
+    "attributes": {
+      "id": "parent-8",
+      "required": false,
+      "className": "form-control child-4",
+      "type": "text",
+      "question": "Pregunta 8"
+    }
+  },
+  {
+    "question": 9,
+    "attributes": {
+      "id": "parent-9",
+      "required": false,
+      "className": "form-control",
+      "type": "text",
+      "question": "Pregunta 9"
+    }
+  },
+  {
+    "question": 10,
+    "attributes": {
+      "id": "parent-10",
+      "required": false,
+      "className": "form-control child-9",
+      "type": "text",
+      "question": "Pregunta 10"
+    }
+  },
+  {
+    "question": 11,
+    "attributes": {
+      "id": "parent-11",
+      "required": false,
+      "className": "form-control",
+      "type": "text",
+      "question": "Pregunta 11"
+    }
+  },
+  {
+    "question": 12,
+    "attributes": {
+      "id": "parent-12",
+      "required": false,
+      "className": "form-control child-11",
+      "type": "text",
+      "question": "Pregunta 12"
+    }
+  },
+  {
+    "question": 13,
+    "attributes": {
+      "id": "parent-13",
+      "required": false,
+      "className": "form-control child-7",
+      "type": "text",
+      "question": "Pregunta 13"
+    }
+  },
+  {
+    "question": 14,
+    "attributes": {
+      "id": "parent-14",
+      "required": false,
+      "className": "form-control child-7",
+      "type": "text",
+      "question": "Pregunta 14"
+    }
+  },
+  {
+    "question": 15,
+    "attributes": {
+      "id": "parent-15",
+      "required": false,
+      "className": "form-control",
+      "type": "text",
+      "question": "Pregunta 5"
+    }
+  },
+  {
+    "question": 16,
+    "attributes": {
+      "id": "parent-16",
+      "required": false,
+      "className": "form-control",
+      "type": "text",
+      "question": "Pregunta 16"
+    }
+  },
+  {
+    "question": 17,
+    "attributes": {
+      "id": "parent-17",
+      "required": false,
+      "className": "form-control",
+      "type": "text",
+      "question": "Pregunta 17"
+    }
+  },
+  {
+    "question": 17,
+    "attributes": {
+      "id": "parent-18",
+      "required": false,
+      "className": "form-control",
+      "type": "text",
+      "question": "Pregunta 18"
+    }
+  },
+  {
+    "question": 19,
+    "attributes": {
+      "id": "parent-19",
+      "required": true,
+      "className": "form-control child-18",
+      "type": "text",
+      "question": "Pregunta 19"
+    }
+  },
+  {
+    "question": 20,
+    "attributes": {
+      "id": "parent-20",
+      "required": false,
+      "className": "form-control child-18",
+      "type": "text",
+      "question": "Pregunta 20"
+    }
+  }
+]
